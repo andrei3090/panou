@@ -1,0 +1,292 @@
+{
+  "checklist": {
+    "versiune": "Ediția 1 · noiembrie 2026",
+    "sectiuni": [
+      {
+        "id": "deschidere",
+        "emoji": "🌅",
+        "titlu": "Deschidere",
+        "cand": "Tura de dimineață · sosire 05:45, ușa la 06:00 (L–V) · weekend sosire 07:45, ușa la 08:00",
+        "grupuri": [
+          {
+            "nume": "Sosire",
+            "itemi": [
+              "Dezactivez alarma, aprind luminile, verific că totul e în ordine (apă pe jos, uși, miros).",
+              "Hainele în dulapul din camera tehnică, șorț curat, mă spăl pe mâini.",
+              "Pornesc ventilația; în sală să fie 21–23 °C."
+            ]
+          },
+          {
+            "nume": "Temperaturi",
+            "itemi": [
+              "Citesc temperatura la cele 6 aparate și o trec în Registrul de temperaturi (coloana Dim.).",
+              "Aparat în afara limitei: remăsor după 30 min; dacă rămâne, mut produsele și îl sun pe Andrei."
+            ]
+          },
+          {
+            "nume": "Bar",
+            "itemi": [
+              "Pornesc espressorul, aștept să se încălzească, purjez grupurile.",
+              "Umplu râșnița; espresso de test 18 g → 36 g în 25–30 s; reglez măcinarea dacă e cazul.",
+              "Lapte, lapte vegetal, fructe: termene verificate, FIFO, etichetă cu data deschiderii.",
+              "Pornesc cuptorul și coc primul lot de patiserie, după fișă.",
+              "Vitrina Hendi: patiseria aranjată, cu prețuri și alergeni; nimic peste termen.",
+              "Blaturi dezinfectate (DA); săpun și prosoape la chiuvetă.",
+              "Pahare 4 / 8 / 12 oz, PET, capace, paie, șervețele la îndemână."
+            ]
+          },
+          {
+            "nume": "Casa",
+            "itemi": [
+              "Pornesc casa de marcat și terminalul de card; am rolă de hârtie de rezervă.",
+              "Număr fondul de casă: ________ lei (trebuie să fie ________ lei)."
+            ]
+          },
+          {
+            "nume": "Sală, Play & Study, WC",
+            "itemi": [
+              "Loc de joacă: verific loftul, toboganul, plasele, saltelele. Ce e stricat se închide și se anunță.",
+              "Jucăriile la locul lor; mesele copiilor și ecranul din Study șterse (DS).",
+              "Mese, banchetă, meniuri la loc; muzica pornită.",
+              "WC curat, cu hârtie, săpun, prosoape; semnez Graficul WC.",
+              "Deschid ușa la ora din program; caseta luminoasă aprinsă."
+            ]
+          }
+        ],
+        "semnatura": [
+          "Deschis de",
+          "Ora"
+        ]
+      },
+      {
+        "id": "runde",
+        "emoji": "🐒",
+        "titlu": "Pe parcursul zilei · runde la 2 ore",
+        "cand": "Scrie inițialele în căsuța orei când ai făcut runda",
+        "ore": [
+          "08:00",
+          "10:00",
+          "12:00",
+          "14:00",
+          "16:00",
+          "18:00"
+        ],
+        "itemi": [
+          "WC verificat (curat, hârtie, săpun) + Graficul WC",
+          "Mese, mânere, întrerupătoare dezinfectate (DS)",
+          "Loc de joacă: jucării strânse, suprafețe șterse",
+          "Vitrine: patiserie completată, termene",
+          "Coșuri de gunoi la bar și în sală"
+        ],
+        "reguli": [
+          "După fiecare petrecere sau atelier: sala dezinfectată, jucăriile strânse, gunoiul scos din sală.",
+          "Pe mâini: după bani, deșeuri, WC, pauză și înainte de alimente.",
+          "Lavete pe culori: albastru bar, verde sală și Play, roșu WC."
+        ]
+      },
+      {
+        "id": "predare",
+        "emoji": "🦒",
+        "titlu": "Predare de tură",
+        "cand": "L–V între 13:00 și 14:15 · weekend între 13:30 și 13:45",
+        "itemi": [
+          "Îi spun colegei ce s-a terminat, ce lipsește și ce e programat (petreceri, ateliere, comenzi).",
+          "Aduc din depozit ce lipsește la bar: lapte, cafea, pahare, patiserie congelată.",
+          "Al doilea lot de patiserie, dacă vitrina e goală.",
+          "Mânere și întrerupătoare dezinfectate (a doua oară azi).",
+          "Raport X pe casă (nu închide ziua); trec totalul în Raportul de închidere, la „Tura de dimineață”."
+        ],
+        "semnatura": [
+          "Predat",
+          "Primit",
+          "Ora"
+        ]
+      },
+      {
+        "id": "inchidere",
+        "emoji": "🌙",
+        "titlu": "Închidere",
+        "cand": "Tura de seară · ultima comandă 19:45, ușa se închide la 20:00",
+        "grupuri": [
+          {
+            "nume": "Bar",
+            "itemi": [
+              "Espressor: backflush cu pastilă, portafiltre și tăviță spălate, lancea de abur curățată, oprit.",
+              "Râșnița periată; boabele rămase acoperite.",
+              "Blenderul și storcătorul Hendi demontate, spălate, uscate.",
+              "Cuptor: tăvi spălate, interior șters, oprit.",
+              "Mașina de vase: ultima tură, filtre curățate, golită, oprită.",
+              "Blaturi și chiuvetă dezinfectate; săpun și prosoape reumplute."
+            ]
+          },
+          {
+            "nume": "Vitrine și stoc",
+            "itemi": [
+              "Patiseria care nu mai e bună se aruncă și se trece la „Pierderi” în raport.",
+              "Produsele deschise acoperite și etichetate cu data; FIFO în frigidere.",
+              "Temperaturile de seară trecute în Registru (coloana Seara).",
+              "Ce lipsește pentru mâine se trece la „De comandat” în raport."
+            ]
+          },
+          {
+            "nume": "Sală, Play & Study, WC",
+            "itemi": [
+              "Loft, tobogan, saltele, piscină: suprafețele de contact dezinfectate (DS).",
+              "Jucăriile strânse și dezinfectate; ecranul din Study șters și oprit.",
+              "Mese, scaune, banchetă curățate; mânere și întrerupătoare.",
+              "Pardoseli măturate și spălate (parchetul cu produsul pentru parchet).",
+              "WC curățat (DW) și Graficul WC semnat.",
+              "Fișa zilnică de curățenie (DSP) bifată pentru ziua de azi."
+            ]
+          },
+          {
+            "nume": "Casa și plecarea",
+            "itemi": [
+              "Raport Z pe casă și raport de închidere pe terminalul de card.",
+              "Număr banii și completez Raportul de închidere.",
+              "Poze la Z, la bonul POS și la raport, trimise lui Andrei.",
+              "Fondul de casă rămâne în sertar; restul banilor în plicul zilei, la locul stabilit.",
+              "Gunoiul scos după închidere, pe ușa de intrare; saci noi în coșuri.",
+              "Aparatele oprite (frigiderele și congelatoarele NU); lumini stinse; ușa depozitului închisă.",
+              "Alarma activată, ușa încuiată."
+            ]
+          }
+        ],
+        "semnatura": [
+          "Închis de",
+          "Ora plecării"
+        ]
+      }
+    ]
+  },
+  "raport_inchidere": {
+    "versiune": "Ediția 1 · noiembrie 2026",
+    "campuri_casa": [
+      [
+        "Nr. raport Z",
+        "",
+        "z_nr"
+      ],
+      [
+        "Bonuri emise (din Z)",
+        "",
+        "bonuri"
+      ],
+      [
+        "Total vânzări (Z)",
+        "lei",
+        "z_total"
+      ],
+      [
+        "din care numerar",
+        "lei · A",
+        "z_numerar"
+      ],
+      [
+        "din care card",
+        "lei · B",
+        "z_card"
+      ],
+      [
+        "Tura de dimineață (raport X la predare)",
+        "lei",
+        "x_dimineata"
+      ]
+    ],
+    "campuri_card": [
+      [
+        "Total pe terminalul de card (POS)",
+        "lei · C",
+        "pos_total"
+      ],
+      [
+        "Diferență card = C − B (trebuie 0)",
+        "lei",
+        "dif_card"
+      ]
+    ],
+    "campuri_numerar": [
+      [
+        "Fond de casă la deschidere",
+        "lei · F",
+        "fond_start"
+      ],
+      [
+        "Plăți făcute din casă azi, cu bon sau factură",
+        "lei · P",
+        "plati"
+      ],
+      [
+        "Numerar numărat la închidere (tot sertarul)",
+        "lei · N",
+        "numerar"
+      ],
+      [
+        "Diferență numerar = N + P − F − A (trebuie 0)",
+        "lei",
+        "dif_numerar"
+      ],
+      [
+        "Fond de casă lăsat în sertar",
+        "lei",
+        "fond_ramas"
+      ],
+      [
+        "Numerar pus în plicul zilei = N − fond lăsat",
+        "lei",
+        "plic"
+      ]
+    ],
+    "bancnote": [
+      "500",
+      "200",
+      "100",
+      "50",
+      "20",
+      "10",
+      "5",
+      "1",
+      "monede"
+    ],
+    "pierderi": {
+      "coloane": [
+        "Produs",
+        "Cant.",
+        "Motiv"
+      ],
+      "motive": [
+        "expirat",
+        "stricat",
+        "greșit",
+        "protocol"
+      ],
+      "randuri": 4
+    },
+    "de_comandat": {
+      "coloane": [
+        "Produs",
+        "Cât e / cât trebuie"
+      ],
+      "randuri": 4
+    },
+    "petreceri": {
+      "coloane": [
+        "Ora",
+        "Petrecere / atelier / sală",
+        "Încasat"
+      ],
+      "randuri": 2
+    },
+    "copii_loc_joaca": "Copii la locul de joacă azi (aprox.)",
+    "probleme": {
+      "indiciu": "Accident la locul de joacă: cine, ce s-a întâmplat, ce ai făcut, părintele a fost anunțat."
+    },
+    "verificari": [
+      "Temperaturile de seară trecute în Registru",
+      "Fișa zilnică de curățenie bifată",
+      "Graficul WC semnat",
+      "Poze trimise: Z, bon POS, raportul acesta",
+      "Alarma activată, ușa încuiată"
+    ]
+  }
+}
